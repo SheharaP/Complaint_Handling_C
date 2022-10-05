@@ -1,0 +1,6 @@
+﻿  DDS-Assignment.cpp
+C:\Users\mspan\source\repos\DDS-Assignment\DDS-Assignment\DDS-Assignment.cpp(196,9): warning C4101: 'm': unreferenced local variable
+C:\Users\mspan\source\repos\DDS-Assignment\DDS-Assignment\DDS-Assignment.cpp(196,6): warning C4101: 'd': unreferenced local variable
+C:\Users\mspan\source\repos\DDS-Assignment\DDS-Assignment\DDS-Assignment.cpp(670,7): warning C4101: 'status': unreferenced local variable
+C:\Users\mspan\source\repos\DDS-Assignment\DDS-Assignment\DDS-Assignment.cpp(818,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  DDS-Assignment.vcxproj -> C:\Users\mspan\source\repos\DDS-Assignment\x64\Debug\DDS-Assignment.exe
